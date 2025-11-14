@@ -1,0 +1,8 @@
+ios/* linguist-detectable=false
+android/* linguist-detectable=false
+macos/* linguist-detectable=false
+windows/* linguist-detectable=false
+linux/* linguist-detectable=false
+web/* linguist-detectable=false
+
+*.dart linguist-detectable=true
